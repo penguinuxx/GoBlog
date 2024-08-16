@@ -6,22 +6,14 @@ GoBlog is a blog-template for Golang. You will just edit JSON file and it going 
 
 
 ```bash
-pip install foobar
+git clone https://github.com/penguinuxx/GoBlog.git
 ```
 
 ## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+Editing after the JSON files 
+```bash
+cd GoBlog/
+go run main.go
 ```
 
 ## Contributing
