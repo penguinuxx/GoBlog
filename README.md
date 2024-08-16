@@ -1,6 +1,6 @@
 # GOBLOG
 
-GoBlog is a blog-template for Golang. You will just edit JSON file and it going to be ready for you.
+GoBlog is a blog-template for Golang. You will  edit JSON files and it going to be ready for you.
 
 ## Installation
 
@@ -15,6 +15,8 @@ Editing after the JSON files
 cd GoBlog/
 go run main.go
 ```
+##Note 
+I forgot to edit some images on the home page. You should edit to link tags.   
 
 ## Contributing
 
