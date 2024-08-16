@@ -15,7 +15,8 @@ Editing after the JSON files
 cd GoBlog/
 go run main.go
 ```
-##Note 
+
+## Note 
 I forgot to edit some images on the home page. You should edit to link tags.   
 
 ## Contributing
