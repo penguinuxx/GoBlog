@@ -31,7 +31,7 @@ Please make sure to update tests as appropriate.
 ### Contents pages
 To add new data :
 ```json
-[{"Topic" : "Topic","Posttitle" : "Posttitle","Url":"#","Date" : "Date","ContextText" : "ContextText"},{"NEW DATA"}]
+[{"Topic" : "Topic","Posttitle" : "Posttitle","Url" : "#","Date" : "Date","ContextText" : "ContextText"},{"NEW DATA"}]
 ```
 
 
