@@ -17,7 +17,7 @@ go run main.go
 ```
 
 ## Note 
-I forgot to edit some images on the home page. You should edit to link tags.   
+Do not forget to remove place holder scripts on html pages.
 
 ## Contributing
 
