@@ -33,6 +33,10 @@ type HomePageCon struct {
 	Img        string `json:"img"`
 	Img2       string `json:"img2"`
 	Img3       string `json:"img3"`
+	Img4	   string `json:"img4"`
+	Img5	   string `json:"img5"`	
+	Img6	   string `json:"img6"`	
+
 }
 
 

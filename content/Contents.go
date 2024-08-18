@@ -12,6 +12,7 @@ import (
 type ContentsTemplates struct {
 	Topic       string `json:"Topic"`
 	Posttitle   string `json:"Posttitle"`
+	Url 		string `json:"Url"`
 	Date        string `json:"Date"`
 	ContextText string `json:"ContextText"`
 }
