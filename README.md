@@ -26,6 +26,15 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+## Edit the JSON files
+
+### Contents pages
+To add new data :
+```json
+[{"Topic" : "Topic","Posttitle" : "Posttitle","Url":"#","Date" : "Date","ContextText" : "ContextText"},{"NEW DATA"}]
+```
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
