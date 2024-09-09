@@ -6,7 +6,7 @@ GoBlog is a blog-template for Golang. You will  edit JSON files and it going to 
 
 
 ```bash
-git clone https://github.com/penguinuxx/GoBlog.git
+git clone https://github.com/yavuzkanat/GoBlog.git
 ```
 
 ## Usage
